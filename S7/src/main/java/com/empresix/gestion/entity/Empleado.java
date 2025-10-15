@@ -46,7 +46,6 @@ public class Empleado {
         this.cargo = cargo;
     }
 
-    // Getters y setters
 
     public Long getId() { return id; }
     public String getCodigo() { return codigo; }
